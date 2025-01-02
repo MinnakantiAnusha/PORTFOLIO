@@ -34,7 +34,7 @@ This is a personal portfolio website that showcases my information, skills, proj
 5. **Accessibility Improvements**: Ensure the website meets accessibility standards, making it more inclusive and user-friendly for all visitors.
 
 ### Getting Started
-To view the portfolio website, simply open the `index1.html` file in a web browser. The website is designed to be responsive and accessible across various devices and screen sizes.
+To view the portfolio website, simply open the `index1.html`  file in a web browser. The website is designed to be responsive and accessible across various devices and screen sizes.
 
 ### Contact
 For any inquiries or feedback, please feel free to reach out to me:
